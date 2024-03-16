@@ -1,3 +1,3 @@
 import os
-import SHC
+import s3x
 s3x.loging()
